@@ -1,0 +1,187 @@
+[
+  {
+    "id": "prod-001",
+    "name": "AeroBook Pro 14\"",
+    "price": 285000,
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=600&auto=format&fit=crop",
+    "description": "Ultra-thin, premium magnesium alloy chassis ultrabook built for developers and creators. Exceptional thermal performance with dual-fan cooling.",
+    "specs": {
+      "CPU": "Intel Core Ultra 7 155H (16-core)",
+      "RAM": "16GB LPDDR5X 7467MHz",
+      "Storage": "512GB NVMe PCIe 4.0 SSD",
+      "Display": "14.0\" 2.8K (2880x1800) OLED 120Hz"
+    },
+    "mostPicked": true,
+    "bestSelling": false,
+    "dateAdded": "2026-06-28",
+    "inStock": true
+  },
+  {
+    "id": "prod-002",
+    "name": "Apex Ryzen Gaming 15\"",
+    "price": 345000,
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?q=80&w=600&auto=format&fit=crop",
+    "description": "High-framerate gaming machine engineered for extreme esports performance. Fluid display, mechanical keyboard switches, and full RGB integration.",
+    "specs": {
+      "CPU": "AMD Ryzen 7 7840HS (8-core)",
+      "RAM": "32GB DDR5 5600MHz",
+      "Storage": "1TB Gen4 NVMe SSD",
+      "Display": "15.6\" QHD (2560x1440) IPS 240Hz",
+      "GPU": "NVIDIA RTX 4070 Laptop (8GB)"
+    },
+    "mostPicked": false,
+    "bestSelling": true,
+    "dateAdded": "2026-06-15",
+    "inStock": true
+  },
+  {
+    "id": "prod-003",
+    "name": "Obsidian Elite Desktop",
+    "price": 680000,
+    "category": "Desktops",
+    "image": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?q=80&w=600&auto=format&fit=crop",
+    "description": "Custom liquid-cooled workstation built for 3D rendering, machine learning, and maximum gaming fidelity. Housed in a tempered glass premium case.",
+    "specs": {
+      "CPU": "Intel Core i9-14900K (24-core)",
+      "RAM": "64GB DDR5 Dual-Channel",
+      "Storage": "2TB NVMe PCIe 5.0 SSD",
+      "GPU": "NVIDIA RTX 4080 Super 16GB",
+      "Cooling": "360mm AIO Liquid Cooler"
+    },
+    "mostPicked": true,
+    "bestSelling": true,
+    "dateAdded": "2026-06-30",
+    "inStock": true
+  },
+  {
+    "id": "prod-004",
+    "name": "Prism UltraWide 34\" Curved",
+    "price": 195000,
+    "category": "Monitors",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=600&auto=format&fit=crop",
+    "description": "Immersive 1500R curved ultra-wide gaming monitor with stunning color accuracy, deep blacks, and a lightning-fast response rate.",
+    "specs": {
+      "Size": "34\" Curved 21:9 UWQHD",
+      "Panel": "QD-OLED (Quantum Dot)",
+      "Refresh Rate": "175Hz",
+      "Response Time": "0.03ms GtG",
+      "Color Gamut": "99.3% DCI-P3"
+    },
+    "mostPicked": false,
+    "bestSelling": true,
+    "dateAdded": "2026-05-10",
+    "inStock": true
+  },
+  {
+    "id": "prod-005",
+    "name": "Apex Pro Mechanical Keyboard",
+    "price": 480000,
+    "category": "Keyboards & Mice",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?q=80&w=600&auto=format&fit=crop",
+    "description": "The world's fastest mechanical keyboard. Custom adjustable OmniPoint 2.0 magnetic switches, double-shot PBT keycaps, and custom OLED smart display.",
+    "specs": {
+      "Switches": "OmniPoint Adjustable Magnetic",
+      "Actuation": "0.2mm to 3.8mm",
+      "Form Factor": "Tenkeyless (80%)",
+      "Backlight": "Per-key Dynamic RGB"
+    },
+    "mostPicked": true,
+    "bestSelling": false,
+    "dateAdded": "2026-06-20",
+    "inStock": true
+  },
+  {
+    "id": "prod-006",
+    "name": "Glide Carbon Laser Mouse",
+    "price": 38000,
+    "category": "Keyboards & Mice",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?q=80&w=600&auto=format&fit=crop",
+    "description": "Superlight wireless gaming mouse crafted with carbon fiber exoskeleton. Sub-millimeter tracking accuracy and near-zero latency.",
+    "specs": {
+      "Sensor": "Apex Focus Pro 35K Optical",
+      "Weight": "49g Ultra-lightweight",
+      "Connectivity": "2.4GHz Wireless / Bluetooth",
+      "Battery Life": "Up to 90 Hours"
+    },
+    "mostPicked": false,
+    "bestSelling": false,
+    "dateAdded": "2026-06-12",
+    "inStock": true
+  },
+  {
+    "id": "prod-007",
+    "name": "Zenith Studio Mini-ITX PC",
+    "price": 450000,
+    "category": "Desktops",
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?q=80&w=600&auto=format&fit=crop",
+    "description": "A compact desk footprint without any compromise. Built for premium desktop performance with custom micro-thermals and full quiet operation.",
+    "specs": {
+      "CPU": "AMD Ryzen 9 7900X (12-core)",
+      "RAM": "32GB DDR5 6000MHz",
+      "Storage": "2TB NVMe PCIe 4.0 SSD",
+      "GPU": "NVIDIA RTX 4060 Ti ITX 8GB",
+      "Case": "Premium 11L Aluminum Chassis"
+    },
+    "mostPicked": false,
+    "bestSelling": true,
+    "dateAdded": "2026-07-01",
+    "inStock": true
+  },
+  {
+    "id": "prod-008",
+    "name": "Titan RTX 4090 GPU",
+    "price": 890000,
+    "category": "Components",
+    "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?q=80&w=600&auto=format&fit=crop",
+    "description": "The ultimate custom-cooled graphics card for enthusiasts. Featuring heavy-duty vapour chamber heat dissipation and massive computing power.",
+    "specs": {
+      "Cores": "16384 CUDA Cores",
+      "VRAM": "24GB GDDR6X 384-bit",
+      "Interface": "PCI Express 4.0 x16",
+      "Power Require": "850W PSU Recommended"
+    },
+    "mostPicked": true,
+    "bestSelling": true,
+    "dateAdded": "2026-07-02",
+    "inStock": true
+  },
+  {
+    "id": "prod-009",
+    "name": "Viper 140W Multi-Charger",
+    "price": 28000,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?q=80&w=600&auto=format&fit=crop",
+    "description": "Next-gen GaN dual-port ultra-fast wall charger. Compact design, supports multiple laptop fast-charging speeds simultaneously.",
+    "specs": {
+      "Technology": "Gallium Nitride (GaN) III",
+      "Max Output": "140W Single Port",
+      "Ports": "3x USB-C, 1x USB-A",
+      "Safety": "ActiveShield Thermal Guard"
+    },
+    "mostPicked": false,
+    "bestSelling": false,
+    "dateAdded": "2026-05-25",
+    "inStock": true
+  },
+  {
+    "id": "prod-010",
+    "name": "Horizon OLED 27\" Pro",
+    "price": 145000,
+    "category": "Monitors",
+    "image": "https://images.unsplash.com/photo-1547119944-472561214a1a?q=80&w=600&auto=format&fit=crop",
+    "description": "Pro-grade colorist monitor with perfect contrast, calibrated DCI-P3 color profiles, and custom hardware LUT support.",
+    "specs": {
+      "Size": "27\" Flat OLED",
+      "Resolution": "QHD (2560x1440)",
+      "Colors": "1.07 Billion (10-bit)",
+      "Accuracy": "Delta E < 1 Pre-calibrated",
+      "Inputs": "2x HDMI 2.1, 1x DP 1.4, USB-C PD 90W"
+    },
+    "mostPicked": false,
+    "bestSelling": false,
+    "dateAdded": "2026-06-05",
+    "inStock": true
+  }
+]

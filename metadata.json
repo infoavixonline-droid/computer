@@ -1,0 +1,6 @@
+{
+  "name": "Computers & Tech Store",
+  "description": "A high-performance computers and tech e-commerce store with an electric orange accent, cart management, and WhatsApp ordering flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
